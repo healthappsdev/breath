@@ -107,4 +107,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us support@healthapps.com 
+If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us healthapps.dev@gmail.com
