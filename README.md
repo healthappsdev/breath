@@ -1,5 +1,6 @@
 # Zen. Breathing and Calm
 
+## Terms and Conditions of Use
 ## End-User License Agreement (EULA) of Zen. Breathing and Calm
 
 This End-User License Agreement ("EULA") is a legal agreement between you and Kirill Tupikov Ltd.
